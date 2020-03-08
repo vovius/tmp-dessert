@@ -1,0 +1,18 @@
+{
+  "name": "nucleus-integration-js-dessert",
+  "version": "0.0.1",
+  "description": "Integration testing for nucleus",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "dependencies": {
+    "@nucleus-integration/kiwi": "0.0.2",
+    "@nucleus-integration/lemon": "0.0.2",
+    "nucleus-integration-banana": "0.0.2"
+  }
+}

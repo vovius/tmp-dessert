@@ -1,0 +1,10 @@
+*.log
+-local-*
+.DS_Store
+dist/*.js
+types/
+node_modules/
+coverage/
+.idea/
+.project/
+lib/
