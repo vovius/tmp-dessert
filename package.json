@@ -4,7 +4,8 @@
   "description": "Integration testing for nucleus",
   "main": "src/index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "echo 'no build for index.js'"
   },
   "license": "MIT",
   "devDependencies": {
