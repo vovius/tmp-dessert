@@ -1,4 +1,0 @@
-steps:
-  node-unit-tests:
-    run:
-      command: ${node-cmd} test
